@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Snap felvétel készítése</string>
+    <string name="notify_record">Felvétel</string>
+    <string name="notify_stop">Stop</string>
+    <string name="start_snap_screenshot">Felvétel start</string>
+    <string name="snap_screenshot_running">Felvétel készítése folyamatban</string>
+    <string name="camera_icon">Kamera ikon</string>
+    <string name="start_snap_saver">Snap Szerver indítása</string>
+    <string name="stop_snap_screenshot">Felvétel leállítása</string>
+    <string name="remove_ads">Pro verzió</string>
+    <string name="rate_app">ALkalmazás értékelése</string>
+    <string name="share_app">Alkalmazás megosztása</string>
+    <string name="feedback">Vélemény</string>
+    <string name="open_screenshots">Felvételek megnyitása</string>
+    <string name="become_a_pro_user">Pro felhasználó leszek</string>
+    <string name="already_pro_version">Köszönjük, hogy megvette a hirdetés nékli verziót! Jó munkát !!</string>
+    <string name="play_billing_licence_key"></string>
+    <string name="cross_icon">Kereszt ikon</string>
+    <string name="get_pro_version">Pro verzió vásárlása</string>
+    <string name="desc">Ezzel az alkalmazással Snapchatről felvételt készíthet. Nem kell rootlni.</string>
+
+</resources>
